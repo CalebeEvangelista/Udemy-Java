@@ -21,7 +21,7 @@ public class Aula27 {
 		System.out.println(x + " elevado ao quadrado é igual a " + b);
 		System.out.println("5 elevado ao quadrado é igual a " + c);
 		
-		a = Math.abs(y);
+		a = Math.abs(y); //Retirar somente positivo
 		b = Math.abs(z);
 		System.out.println("Valor absoluto de " + y + " = " + a);
 		System.out.println("Valor absoluto de " + z + " = " + b);

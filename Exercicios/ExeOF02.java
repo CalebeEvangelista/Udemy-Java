@@ -15,6 +15,8 @@ public class ExeOF02 {
 		
 		System.out.printf("A=%.4f%n" ,area);
 		
+		sc.close();
+		
 		
 	}
 }

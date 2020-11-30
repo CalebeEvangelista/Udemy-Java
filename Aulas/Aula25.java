@@ -25,6 +25,6 @@ public class Aula25 {
 		System.out.println("Você digitou o numero: " + numerod);
 		System.out.println("Você digitou o caractere: " + letra);
 		
-		
+		sc.close();
 	}
 }

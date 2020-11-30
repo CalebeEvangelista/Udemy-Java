@@ -19,5 +19,6 @@ public class Aula26 {
 		System.out.println(b);
 		System.out.println(a);
 		
+		sc.close();
 	}
 }

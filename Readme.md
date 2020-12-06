@@ -16,3 +16,4 @@ Todos meus estudos de java tão por aqui, talvez em um arquivo de codigo somento
     - [Exercício 4 do matérial da aula 29 (Salário)](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Exercicios/ExeOF04.java)
     - [Exercício 5 do matérial da aula 29 (Valor total)](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Exercicios/ExeOF05.java)
     - [Exercício 6 do matérial da aula 29 (Área)](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Exercicios/ExeOF06.java)
+    - [Exercício 1 do matérial da aula 36 (Negativo e não negativo)](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Exercicios/ExeOF07.java)

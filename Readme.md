@@ -9,6 +9,7 @@ Todos meus estudos de java tão por aqui, talvez em um arquivo de codigo somento
     - [Aula 27 - Funções matematicas](https://github.com/CalebeEvangelista/Udemy-Java/blob/main/Aulas/Aula27.java)
     - [Aula 34 - if,else](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Aulas/Aula34.java)
     - [Aula 38 - Switch case](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Aulas/Aula38.java)
+    - [Aula 44 - While](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Aulas/Aula44.java)
 - Exercícios:
     - [Exercício da Aula 23 (Formatação e Locale)](https://github.com/CalebeEvangelista/Udemy-Java/blob/main/Exercicios/Exe23.java)
     - [Exercício 1 do matérial da aula 29 (Soma)](https://github.com/CalebeEvangelista/UdemyJava/blob/main/Exercicios/ExeOF01.java)

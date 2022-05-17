@@ -1,4 +1,4 @@
-package Aula65;
+package Aulas.Aula65;
 
 public class Triangle {
 

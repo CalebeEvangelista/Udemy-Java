@@ -1,4 +1,4 @@
-package ExAula73;
+package Exercicios.ExAula73;
 
 import java.util.Scanner;
 

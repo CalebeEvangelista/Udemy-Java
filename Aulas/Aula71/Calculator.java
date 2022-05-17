@@ -1,4 +1,4 @@
-package Aula71;
+package Aulas.Aula71;
 
 public class Calculator {
     public static final double PI = 3.14159;
